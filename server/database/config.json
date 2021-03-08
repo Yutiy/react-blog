@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Yutiy_7_mysql",
+    "database": "egg_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Yutiy_7_mysql",
+    "database": "egg_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Yutiy_7_mysql",
+    "database": "egg_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
